@@ -1,0 +1,9 @@
+gunicorn
+request
+requests
+numpy
+pandas
+flask
+cherrypy
+pymongo
+pymongo[srv]
