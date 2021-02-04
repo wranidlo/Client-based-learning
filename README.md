@@ -9,6 +9,8 @@
 - Pandas
 - scikit-learn
 - PyQt5
+- Flask
+- CherryPy
 - Json
-- request
-- heroku
+- requests
+- queue
